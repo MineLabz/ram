@@ -1,0 +1,7 @@
+[
+    { "name": "Core Protect", "ram": 20 },
+    { "name": "Essentials Chat", "ram": 5 },
+    { "name": "EssentialsX", "ram": 10 },
+    { "name": "EssentialsXSpawn", "ram": 15 },
+    { "name": "Farm Control", "ram": 10 }
+]
