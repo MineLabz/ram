@@ -4,4 +4,13 @@
     { "name": "EssentialsX", "ram": 10 },
     { "name": "EssentialsXSpawn", "ram": 15 },
     { "name": "Farm Control", "ram": 10 }
+    { "name": "WorldEdit", "ram": 20 },
+    { "name": "WorldGuard", "ram": 20 },
+    { "name": "Multiverse-Core", "ram": 20 },
+    { "name": "Dynmap", "ram": 10 },
+    { "name": "Shopkeepers", "ram": 30 },
+    { "name": "Holographic Displays", "ram": 30 },
+    { "name": "Dead Chest", "ram": 10 },
+    { "name": "Grief Prevention", "ram": 10 },
+    { "name": "Vault", "ram": 20 }
 ]
